@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there !! 👋 I'm Victoria
+
+
+I am a Computer Science Major with deep interest in machine learning, AI and data Analytics which I mostly do at work (SQL, PowerBI, Tableau). 
+
+🔭 You can read about my penned thoughts on these on [My Medium Blog](https://medium.com/@victoria-michael).
+
+🛠 My Technical Skills
+#### Data Analysis: Python || Numpy || Pandas
+
+#### Machine Learning Frameworks 
+
+Connect on [My LinkedIn Profile](https://www.linkedin.com/in/victoria-michael-608811197)
+
+
 
 <!--
 **victoria-michael/victoria-michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
