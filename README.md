@@ -3,7 +3,7 @@
 
 I am a Computer Science Major with deep interest in machine learning, AI and data Analytics which I mostly do at work (SQL, PowerBI, Tableau). 
 
-🔭 You can read about my penned thoughts on these on my [Medium]Blog(https://medium.com/@victoria-michael).
+🔭 You can read about my penned thoughts on these on my [Medium Blog](https://medium.com/@victoria-michael).
 
 🛠 My Technical Skills
 #### Data Analysis: Python || Numpy || Pandas
